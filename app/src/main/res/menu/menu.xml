@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/navigation_first"
+        android:icon="@drawable/ic_baseline_looks_one_24"
+        android:title="First" />
+    <item android:id="@+id/navigation_second"
+        android:icon="@drawable/ic_baseline_looks_two_24"
+        android:title="Second" />
+    <item android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profile"/>
+
+</menu>
